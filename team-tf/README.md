@@ -1,0 +1,3 @@
+- 용도: 대구 관광 IP 프로젝트 팀의 local 모듈 저장소 (리서치 → 아카이브 → 인벤토리 → 브랜드 → 스토리보드 순서로 작업물을 모은다)
+- 파일 예시: research/, archive/, inventory/, brand/, storyboard/ 각 폴더와 그 안의 README.md
+- 파일명 규칙: 영문 소문자와 밑줄(_)만 사용, `YYYYMMDD_주제_vN` 형식 (예: `20261028_daegu_chicken_notes_v1.md`)

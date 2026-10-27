@@ -1,0 +1,3 @@
+- 용도: 10/30 디지털 필드워크 수집물(사진·영상·캡처·녹음 등) 보관. 모든 파일은 `metadata.csv`에 한 줄씩 기록한다
+- 파일 예시: `20261030_seomun_night_market_01.jpg`, `20261030_line3_window_fog_01.mp4`, `metadata.csv`
+- 파일명 규칙: 영문 소문자와 밑줄(_)만 사용, `YYYYMMDD_장소_내용_번호` 형식 (예: `20261030_bukseongro_tool_alley_03.jpg`)

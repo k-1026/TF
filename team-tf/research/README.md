@@ -1,0 +1,3 @@
+- 용도: 10/27~29 리서치 노트 보관. 모든 노트에 출처 URL을 함께 적는다 (분야별 노트는 하위 폴더 history_culture/, industry_food/, place_tour/에)
+- 파일 예시: `keyword_map.md`(전체 키워드 맵), `20261028_daegu_keyword_notes_v1.md`
+- 파일명 규칙: 영문 소문자와 밑줄(_)만 사용, `YYYYMMDD_주제_vN` 형식 (예: `20261029_daegu_research_summary_v1.md`)
